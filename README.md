@@ -1,4 +1,4 @@
-![banner](https://your-banner-image-link-here) <!-- replace with banner image (recommended ~1200x300) -->
+![banner](https://i.ibb.co.com/BdyNkzT/Navy-Blue-Geometric-Technology-Linked-In-Banner.png) <!-- replace with banner image (recommended ~1200x300) -->
 
 # Shah Muhammad Rubayet Alam — Frontend Developer
 
