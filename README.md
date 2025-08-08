@@ -35,7 +35,6 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 
 
 # GitHub Stats
-> Replace `USERNAME` below with your GitHub username
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubayetalam21&show_icons=true&count_private=true&theme=default)
 
