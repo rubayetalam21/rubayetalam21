@@ -30,9 +30,9 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 # Social
-[![GitHub](https://img.shields.io/badge/GitHub-@USERNAME-181717?logo=github&logoColor=white)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-@USERNAME-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![GitHub](https://img.shields.io/badge/GitHub-@USERNAME-181717?logo=github&logoColor=white)](https://github.com/rubayetalam21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/smrubayetalam)
+
 
 # GitHub Stats
 > Replace `USERNAME` below with your GitHub username
@@ -48,7 +48,7 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 
 # Contact
 - Email: rubayetalam21@gmail.com
-- Website / Portfolio: LIVE_URL
+
 
 <!-- small footer -->
 Thanks for visiting — feel free to explore my pinned projects below 👇
