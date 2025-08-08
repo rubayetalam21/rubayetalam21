@@ -39,12 +39,12 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubayetalam21&show_icons=true&count_private=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rubayetalam21&layout=compact&theme=default)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=default)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=rubayetalam21&theme=default)
 
 <!-- Optional: activity graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=USERNAME&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rubayetalam21&theme=github)
 
 # Contact
 - Email: rubayetalam21@gmail.com
