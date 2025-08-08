@@ -30,7 +30,7 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 # Social
-[![GitHub](https://img.shields.io/badge/GitHub-@USERNAME-181717?logo=github&logoColor=white)](https://github.com/rubayetalam21)
+[![GitHub](https://img.shields.io/badge/GitHub-@rubayetalam21-181717?logo=github&logoColor=white)](https://github.com/rubayetalam21)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/smrubayetalam)
 
 
