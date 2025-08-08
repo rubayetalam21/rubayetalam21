@@ -42,8 +42,6 @@ Hi — I'm Shah Muhammad Rubayet Alam (based in Dhaka). I build clean, maintaina
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=rubayetalam21&theme=default)
 
-<!-- Optional: activity graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rubayetalam21&theme=github)
 
 # Contact
 - Email: rubayetalam21@gmail.com
